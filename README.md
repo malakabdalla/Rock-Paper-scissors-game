@@ -1,5 +1,7 @@
 #Rock Paper Scissors Game
 
+This is a live version of the website on GitHub pages:https://malakabdalla.github.io/Rock-Paper-scissors-game/
+
 Introduction of the project aim:
 This project is one of the first apps that I made when I started learning to code, it is a simple game that will aid you to play ROCK paper scissors with a randomized AI.
 
